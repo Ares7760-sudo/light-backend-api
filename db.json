@@ -49,5 +49,37 @@
             "info": "Một lít nước mắt",
             "sub-info": ""
         }
-    ]
+    ],
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Thành công là một hành trình - không phải là một điểm đến.",
+            "author": "Trí Việt",
+            "content": "Trong cuộc sống ai cũng mong muốn thành công. Chúng ta đã từng bao lần suy nghĩ để tìm hướng đi và giá trị đích thực của thành công. Thành công thực sự không phải là may mắn hay là một số phận như một số người lầm tưởng - mà thành công là sự cố gắng của cả một quá trình. Và con đường đến thành công không có sẵn, không dễ dàng - chúng ta phải vượt qua rất nhiều khó khăn, thử thách để có thể đến đích."
+        },
+        {
+            "id": 2,
+            "title": "一",
+            "author": "Mạc Đĩnh Chi",
+            "content": "Thanh thiên nhất đóa vân \\nHồng lô nhất điểm tuyết \\nThượng uyển nhất chi hoa \\nDao trì nhất phiến nguyệt \\nY! Vân tán, tuyết tiêu, hoa tàn, nguyệt khuyết! \\nDịch nghĩa: \\nMột đám mây giữa trời xanh \\nMột bông tuyết trong lò lửa \\nMột bông hoa giữa vườn thượng uyển \\nMột vầng trăng trên mặt nước ao \\nThan ôi! Mây tán, tuyết tan, hoa tàn, trăng khuyết."
+        },
+        {
+            "id": 3,
+            "title": "Tâm hồn cao thượng từ những điều bình dị",
+            "author": "Abert Einstein",
+            "content": "Trong những lúc khó khăn nhất của cuộc sống, đừng cố gắng trở thành một người thành công hay hạnh phúc, mà tốt hơn hãy trở thành người có giá trị."
+        },
+        {
+            "id": 4,
+            "title": "Những điều học được từ cuộc sống",
+            "author": "Vô Danh",
+            "content": "Bạn đã học được điều gì từ cuộc sống ? Câu hỏi được đặt ra với nhiều người ở nhiều lứa tuổi khác nhau, nên câu trả lời cũng không giống nhau. \\n_ Điều con học được là khi con vẫy tay chào người nào thì họ sẽ ngừng công việc đang làm để vẫy tay chào lại con. (9 tuổi) \\n \\n_ Cách tốt nhất để đánh giá một việc gì là rời khỏi nó một thời gian. (14 tuổi) "
+        },
+        {
+            "id": 5,
+            "title": "Từng bước, từng bước một",
+            "author": "Aya - Một lít nước mắt ",
+            "content": "Khi sự tồn tại của tôi dần tan biến. \\nTôi sẽ tìm đến một nơi \\n     mà tôi có thể gắn hết sức mình. \\nTừ bây giờ, \\n   tôi sẽ suy nghĩ chính chắn hơn \\nTôi sẽ không mất kiên nhẫn\\n Tôi sẽ không tham lam \\nTôi sẽ không bỏ cuộc \\nVì mọi người ai cũng phải bước đi từng bước một."
+        }
+    ] 
 }
